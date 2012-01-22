@@ -1,0 +1,5 @@
+T:\src\dotnet\Combinatorics\Combinatorics\bin\Debug\Combinatorics.dll
+T:\src\dotnet\Combinatorics\Combinatorics\bin\Debug\Combinatorics.pdb
+T:\src\dotnet\Combinatorics\Combinatorics\obj\Debug\ResolveAssemblyReference.cache
+T:\src\dotnet\Combinatorics\Combinatorics\obj\Debug\Combinatorics.dll
+T:\src\dotnet\Combinatorics\Combinatorics\obj\Debug\Combinatorics.pdb
